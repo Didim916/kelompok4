@@ -1,0 +1,22 @@
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.exe.config
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Form1.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.csproj.GenerateResource.Cache
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.exe
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.pdb
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.exe
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.pdb
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Form2.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2015\Projects\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Help.resources
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.exe.config
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.exe
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.pdb
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.exe
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\bin\Debug\Kelompok4_Aplikasi_Hotel.pdb
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.csprojResolveAssemblyReference.cache
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Form1.resources
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Form2.resources
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Help.resources
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.Properties.Resources.resources
+D:\Downloads\Kelompok4_Aplikasi_Hotel\Kelompok4_Aplikasi_Hotel\obj\Debug\Kelompok4_Aplikasi_Hotel.csproj.GenerateResource.Cache
